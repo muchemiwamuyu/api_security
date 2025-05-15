@@ -1,2 +1,2 @@
 # api_security
-This is an api_security using djangorestframework
+This is an api-security using djangorestframework
